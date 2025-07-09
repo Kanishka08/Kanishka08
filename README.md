@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanishka Narayan Choudhury
 
-<!--
-**Kanishka08/Kanishka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Analyst / Business Analyst** skilled in turning raw data into impactful business insights.
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies:
+- SQL (MySQL, PostgreSQL)
+- Excel (Dashboards, Pivot Tables, VBA)
+- Power BI (Interactive dashboards, DAX)
+- Python (Numpy, Pandas, Matplotlib, Streamlit)
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Key Projects:
+- 🔍 **Amazon Prime SQL Analysis** – Content trend insights to optimize regional offerings
+- 🛒 **Meesho Order Fulfillment Dashboard** – Operational KPIs like revenue, order status, and state-wise trends
+- ⚠️ **Fraud & Refund Risk Dashboard** – Risk segmentation & refund abuse patterns
+- 🧠 **Loan Approval ML App** – End-to-end Streamlit app predicting loan approval status
+- ☕ **Barista Excel Dashboard** – Sales insights and customer behavior using Excel tools
+
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kanishka-n-choudhury/) | ✉️ kanishkachoudhury08@email.com
