@@ -3,7 +3,7 @@
 🎯 Aspiring **Data Analyst / Business Analyst** skilled in turning raw data into impactful business insights.
 
 🛠️ Tools & Technologies:
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL)
 - Excel (Dashboards, Pivot Tables, VBA)
 - Power BI (Interactive dashboards, DAX)
 - Python (Numpy, Pandas, Matplotlib, Streamlit)
